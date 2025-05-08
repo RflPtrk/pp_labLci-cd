@@ -24,3 +24,4 @@ def test_multiply(a, b, expected):
 def test_divide(a, b, expected):
     result = utils.divide(a, b)
     assert result == expected
+
